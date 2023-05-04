@@ -52,7 +52,7 @@ public class CalculadoraSimples{
 
             }else if(op == 3){
                 System.out.println("\n\t\t\tMultiplicação\n");
-                //Gabriel Credendio
+                //Gabriel Alves
 
                 //Entradas
                 System.out.println("Informe N1:");
