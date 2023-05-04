@@ -27,16 +27,16 @@ public class CalculadoraSimples{
                         //Credendio
 
                         //entrada
-                        System.out.print("Informe N1:");
+                        System.out.print("Informe N1: ");
                         n1 = entrada.nextInt();
-                        System.out.print("Informe N2");
+                        System.out.print("Informe N2: ");
                         n2 = entrada.nextInt();
-                        
+
                         //processamento
                         total = n1 + n2;
 
                         //saída
-                        System.out.printf("%d + %d + %d", n1, n2, total);
+                        System.out.printf("\n%d + %d = %d", n1, n2, total);
                 }
 
                 else if(op == 2){
